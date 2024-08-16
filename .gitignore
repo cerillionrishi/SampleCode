@@ -1,0 +1,10 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/sampleapp/bin/Debug/net8.0-android
+/sampleapp/obj
+/sampleapp/.vs
+/sampleapp/sampleapp.csproj.user
+sampleapp/bin/
