@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rishikesh.chavan\\source\\newProject\\sampleapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{153DF023-29D6-4C2B-8CD8-3D09746C8B31}|sampleapp\\sampleapp.csproj|c:\\users\\rishikesh.chavan\\source\\newproject\\sampleapp\\sampleapp\\usagepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{153DF023-29D6-4C2B-8CD8-3D09746C8B31}|sampleapp\\sampleapp.csproj|solutionrelative:sampleapp\\usagepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153DF023-29D6-4C2B-8CD8-3D09746C8B31}|sampleapp\\sampleapp.csproj|c:\\users\\rishikesh.chavan\\source\\newproject\\sampleapp\\sampleapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{153DF023-29D6-4C2B-8CD8-3D09746C8B31}|sampleapp\\sampleapp.csproj|solutionrelative:sampleapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153DF023-29D6-4C2B-8CD8-3D09746C8B31}|sampleapp\\sampleapp.csproj|c:\\users\\rishikesh.chavan\\source\\newproject\\sampleapp\\sampleapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153DF023-29D6-4C2B-8CD8-3D09746C8B31}|sampleapp\\sampleapp.csproj|solutionrelative:sampleapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153DF023-29D6-4C2B-8CD8-3D09746C8B31}|sampleapp\\sampleapp.csproj|c:\\users\\rishikesh.chavan\\source\\newproject\\sampleapp\\sampleapp\\sampleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{153DF023-29D6-4C2B-8CD8-3D09746C8B31}|sampleapp\\sampleapp.csproj|solutionrelative:sampleapp\\sampleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153DF023-29D6-4C2B-8CD8-3D09746C8B31}|sampleapp\\sampleapp.csproj|c:\\users\\rishikesh.chavan\\source\\newproject\\sampleapp\\sampleapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153DF023-29D6-4C2B-8CD8-3D09746C8B31}|sampleapp\\sampleapp.csproj|solutionrelative:sampleapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 13,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 14,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsagePage.xaml",
+              "DocumentMoniker": "C:\\Users\\rishikesh.chavan\\source\\newProject\\sampleapp\\sampleapp\\UsagePage.xaml",
+              "RelativeDocumentMoniker": "sampleapp\\UsagePage.xaml",
+              "ToolTip": "C:\\Users\\rishikesh.chavan\\source\\newProject\\sampleapp\\sampleapp\\UsagePage.xaml",
+              "RelativeToolTip": "sampleapp\\UsagePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-16T06:09:43.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rishikesh.chavan\\source\\newProject\\sampleapp\\sampleapp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "sampleapp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\rishikesh.chavan\\source\\newProject\\sampleapp\\sampleapp\\MainPage.xaml.cs",
+              "RelativeToolTip": "sampleapp\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T06:07:23.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\rishikesh.chavan\\source\\newProject\\sampleapp\\sampleapp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "sampleapp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\rishikesh.chavan\\source\\newProject\\sampleapp\\sampleapp\\MainPage.xaml",
+              "RelativeToolTip": "sampleapp\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-16T06:07:18.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sampleapp.csproj",
+              "DocumentMoniker": "C:\\Users\\rishikesh.chavan\\source\\newProject\\sampleapp\\sampleapp\\sampleapp.csproj",
+              "RelativeDocumentMoniker": "sampleapp\\sampleapp.csproj",
+              "ToolTip": "C:\\Users\\rishikesh.chavan\\source\\newProject\\sampleapp\\sampleapp\\sampleapp.csproj",
+              "RelativeToolTip": "sampleapp\\sampleapp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-13T13:08:44.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rishikesh.chavan\\source\\newProject\\sampleapp\\sampleapp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "sampleapp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\rishikesh.chavan\\source\\newProject\\sampleapp\\sampleapp\\App.xaml.cs",
+              "RelativeToolTip": "sampleapp\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:07:28.344Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
